@@ -268,4 +268,183 @@ export const questions = [
       { entrepreneur: 10, police_officer: 5 },
     ],
   },
+  {
+    question: "What type of projects excite you the most?",
+    options: [
+      "Building or designing structures",
+      "Solving scientific mysteries",
+      "Performing or expressing emotions",
+      "Repairing or assembling machines",
+      "Promoting ideas creatively to people",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "How do you react when faced with a new challenge?",
+    options: [
+      "I draft a plan or blueprint",
+      "I research and analyze deeply",
+      "I use body language and expression",
+      "I take things apart to understand them",
+      "I consider how to present it attractively",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "Which school subject did you enjoy the most?",
+    options: [
+      "Geometry and design",
+      "Biology or chemistry",
+      "Drama or literature",
+      "Physics or mechanics",
+      "Business or marketing",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "What do you value most in a job?",
+    options: [
+      "Creating functional structures",
+      "Discovering how life works",
+      "Expressing emotions and telling stories",
+      "Fixing things and being hands-on",
+      "Understanding people’s needs",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "What kind of thinking comes naturally to you?",
+    options: [
+      "Spatial and structural thinking",
+      "Analytical and experimental thinking",
+      "Emotional and expressive thinking",
+      "Mechanical and technical thinking",
+      "Persuasive and strategic thinking",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "How do you usually express yourself?",
+    options: [
+      "Through diagrams or designs",
+      "By explaining scientific ideas",
+      "Through voice, movement, or acting",
+      "By fixing or modifying objects",
+      "Through creative marketing or visuals",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "What role fits you in a creative team?",
+    options: [
+      "The planner who sketches ideas",
+      "The researcher who provides facts",
+      "The performer who brings ideas to life",
+      "The builder who executes physically",
+      "The promoter who presents the project",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "What type of environment helps you focus?",
+    options: [
+      "A calm place where I can design",
+      "A lab with tools for experiments",
+      "A stage or expressive setting",
+      "A workshop with equipment",
+      "A dynamic environment with people",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "How do you handle mistakes?",
+    options: [
+      "I redesign and adjust the structure",
+      "I retest and analyze data",
+      "I turn them into creative expression",
+      "I repair and improve the mechanism",
+      "I rethink the strategy and messaging",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
+
+  {
+    question: "What would make you proud of your career?",
+    options: [
+      "Seeing a building I designed being used",
+      "Contributing to scientific discoveries",
+      "Playing an impactful role",
+      "Fixing something important for someone",
+      "Helping a brand or idea grow",
+    ],
+    points: [
+      { architect: 10 },
+      { biologist: 10 },
+      { actor: 10 },
+      { mechanic: 10 },
+      { marketing_specialist: 10 },
+    ],
+  },
 ];

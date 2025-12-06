@@ -165,7 +165,7 @@ export default function App() {
             maxPossiblePoints={maxPossiblePoints}
             highscore={highscore}
             dispatch={dispatch}
-            jobScores={jobScores} // now exists in state
+            jobScores={jobScores}
           />
         )}
       </Main>
