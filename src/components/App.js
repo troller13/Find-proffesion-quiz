@@ -33,6 +33,11 @@ const initialState = {
     journalist: 0,
     entrepreneur: 0,
     police_officer: 0,
+    architect: 0,
+    biologist: 0,
+    actor: 0,
+    mechanic: 0,
+    marketing_specialist: 0,
   },
 };
 
